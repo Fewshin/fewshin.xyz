@@ -1,0 +1,6 @@
+body {background: #7a0000;}
+#logo1 {position: absolute; top: 55%; left: 50%; transform: translate(-50%, -110%);}
+#text1 {position: absolute; top: 54%; left: 50%; transform: translate(-50%, -110%); font-size: 35px; font-family: "Tahoma"; font-weight: bold;}
+#text2 {position: absolute; top: 59%; left: 50%; transform: translate(-50%, -110%); font-size: 20px; font-family: "Tahoma";}
+#twitter {position: absolute; top: 99%; left: 5%; transform: translate(-50%, -110%);}
+#github {position: absolute; top: 99%; left: 2%; transform: translate(-50%, -110%);}
